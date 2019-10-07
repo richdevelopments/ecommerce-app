@@ -4,6 +4,7 @@ This an e-commerce project that displays products for sale, allowing customers t
 I used Stripe, which is a tool for Internet commerce that allows both private individuals and businesses to accept payments.
 I also used the Amazong Web Service S3 to serve the static and media files.
 
+The site was deployed to Heroku -
 https://richs-ecommerce.herokuapp.com/
 
 
