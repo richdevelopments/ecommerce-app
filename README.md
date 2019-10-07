@@ -1,16 +1,9 @@
  [![Build Status](https://travis-ci.org/richdevelopments/ecommerce-app.svg?branch=master)](https://travis-ci.org/richdevelopments/ecommerce-app) 
  
- ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+This an e-commerce project that displays products for sale, allowing customers to search for and add products to a cart, and then pay for the products with a credit or debit card. Writen using Django.
+I used Stripe, which is a tool for Internet commerce that allows both private individuals and businesses to accept payments.
+I also used the Amazong Web Service S3 to serve the static and media files.
+
+https://richs-ecommerce.herokuapp.com/
 
 
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
